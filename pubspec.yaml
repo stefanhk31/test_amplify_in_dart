@@ -1,0 +1,16 @@
+name: test_amplify_in_dart
+description: A Very Good Project created by Very Good CLI.
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  amplify_api: ^2.0.0
+  amplify_core: ^2.0.0
+
+dev_dependencies:
+  mocktail: ^1.0.4
+  test: ^1.25.2
+  very_good_analysis: ^6.0.0
